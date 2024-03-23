@@ -1,0 +1,285 @@
+{
+    "predictions": [
+        {
+            "description": "Abaré Pizzarias - Champagnat - Rua Padre Agostinho - Mercês, Curitiba - State of Paraná, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 28,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJ5VCUbPDj3JQRuWe9OLQ93Zw",
+            "reference": "ChIJ5VCUbPDj3JQRuWe9OLQ93Zw",
+            "structured_formatting": {
+                "main_text": "Abaré Pizzarias - Champagnat",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 28,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Rua Padre Agostinho - Mercês, Curitiba - State of Paraná, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Abaré Pizzarias - Champagnat"
+                },
+                {
+                    "offset": 31,
+                    "value": "Rua Padre Agostinho"
+                },
+                {
+                    "offset": 53,
+                    "value": "Mercês"
+                },
+                {
+                    "offset": 61,
+                    "value": "Curitiba"
+                },
+                {
+                    "offset": 72,
+                    "value": "State of Paraná"
+                },
+                {
+                    "offset": 89,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Abate's Pizza, Boston Post Road, Orange, CT, USA",
+            "matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJI8JmzgF26IkRJddD9fUcH7g",
+            "reference": "ChIJI8JmzgF26IkRJddD9fUcH7g",
+            "structured_formatting": {
+                "main_text": "Abate's Pizza",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 13,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Boston Post Road, Orange, CT, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Abate's Pizza"
+                },
+                {
+                    "offset": 15,
+                    "value": "Boston Post Road"
+                },
+                {
+                    "offset": 33,
+                    "value": "Orange"
+                },
+                {
+                    "offset": 41,
+                    "value": "CT"
+                },
+                {
+                    "offset": 45,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Via G. Abate, Piazza Armerina, Province of Enna, Italy",
+            "matched_substrings": [
+                {
+                    "length": 5,
+                    "offset": 7
+                },
+                {
+                    "length": 15,
+                    "offset": 14
+                }
+            ],
+            "place_id": "EjZWaWEgRy4gQWJhdGUsIFBpYXp6YSBBcm1lcmluYSwgUHJvdmluY2Ugb2YgRW5uYSwgSXRhbHkiLiosChQKEgn5KayH0R4RExEUDU9o2JbQfxIUChIJrTOA-88eERMRyO0QVGv1eEE",
+            "reference": "EjZWaWEgRy4gQWJhdGUsIFBpYXp6YSBBcm1lcmluYSwgUHJvdmluY2Ugb2YgRW5uYSwgSXRhbHkiLiosChQKEgn5KayH0R4RExEUDU9o2JbQfxIUChIJrTOA-88eERMRyO0QVGv1eEE",
+            "structured_formatting": {
+                "main_text": "Via G. Abate",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 7
+                    }
+                ],
+                "secondary_text": "Piazza Armerina, Province of Enna, Italy",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Via G. Abate"
+                },
+                {
+                    "offset": 14,
+                    "value": "Piazza Armerina"
+                },
+                {
+                    "offset": 31,
+                    "value": "Province of Enna"
+                },
+                {
+                    "offset": 49,
+                    "value": "Italy"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Abate Bar, Piazzale Jonio, Rome, Metropolitan City of Rome, Italy",
+            "matched_substrings": [
+                {
+                    "length": 5,
+                    "offset": 0
+                },
+                {
+                    "length": 14,
+                    "offset": 11
+                }
+            ],
+            "place_id": "ChIJl7ZnvKtmLxMRNw9Y8MQdbNA",
+            "reference": "ChIJl7ZnvKtmLxMRNw9Y8MQdbNA",
+            "structured_formatting": {
+                "main_text": "Abate Bar",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Piazzale Jonio, Rome, Metropolitan City of Rome, Italy",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 14,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Abate Bar"
+                },
+                {
+                    "offset": 11,
+                    "value": "Piazzale Jonio"
+                },
+                {
+                    "offset": 27,
+                    "value": "Rome"
+                },
+                {
+                    "offset": 33,
+                    "value": "Metropolitan City of Rome"
+                },
+                {
+                    "offset": 60,
+                    "value": "Italy"
+                }
+            ],
+            "types": [
+                "bakery",
+                "bar",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Doppio Zero, Vicolo Abate Gaetano della Piazza, Schio, Province of Vicenza, Italy",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 20
+                }
+            ],
+            "place_id": "ChIJrzQ6SfezeEcRj1giEBPvS0I",
+            "reference": "ChIJrzQ6SfezeEcRj1giEBPvS0I",
+            "structured_formatting": {
+                "main_text": "Doppio Zero",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Vicolo Abate Gaetano della Piazza, Schio, Province of Vicenza, Italy",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 7
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Doppio Zero"
+                },
+                {
+                    "offset": 13,
+                    "value": "Vicolo Abate Gaetano della Piazza"
+                },
+                {
+                    "offset": 48,
+                    "value": "Schio"
+                },
+                {
+                    "offset": 55,
+                    "value": "Province of Vicenza"
+                },
+                {
+                    "offset": 76,
+                    "value": "Italy"
+                }
+            ],
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}

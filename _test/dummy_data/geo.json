@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Silvassa - Vapi Road",
+                    "short_name": "Silvassa - Vapi Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Panchayat Market",
+                    "short_name": "Panchayat Market",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Silvassa",
+                    "short_name": "Silvassa",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Silvassa",
+                    "short_name": "Silvassa",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Dadra and Nagar Haveli",
+                    "short_name": "Dadra and Nagar Haveli",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Dadra and Nagar Haveli and Daman and Diu",
+                    "short_name": "DH",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "India",
+                    "short_name": "IN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "396230",
+                    "short_name": "396230",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Silvassa - Vapi Rd, Panchayat Market, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230, India",
+            "geometry": {
+                "location": {
+                    "lat": 20.2740478,
+                    "lng": 73.0030745
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.2753967802915,
+                        "lng": 73.00442348029151
+                    },
+                    "southwest": {
+                        "lat": 20.27269881970849,
+                        "lng": 73.00172551970849
+                    }
+                }
+            },
+            "place_id": "ChIJpzlhn2fL4DsRgRVi4LSC_9Q",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

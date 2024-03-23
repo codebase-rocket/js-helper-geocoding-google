@@ -1,0 +1,224 @@
+{
+    "predictions": [
+        {
+            "description": "4 Natures Trail, Chester, NY, USA",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                }
+            ],
+            "place_id": "EiE0IE5hdHVyZXMgVHJhaWwsIENoZXN0ZXIsIE5ZLCBVU0EiUBJOCjQKMgmDYrvRzCfDiREJJU5O7QCAyhoeCxDuwe6hARoUChIJVaE30qYpw4kRsl_npkcwJPUMEAQqFAoSCakeM2DMJ8OJES1f6tHW7sgo",
+            "reference": "EiE0IE5hdHVyZXMgVHJhaWwsIENoZXN0ZXIsIE5ZLCBVU0EiUBJOCjQKMgmDYrvRzCfDiREJJU5O7QCAyhoeCxDuwe6hARoUChIJVaE30qYpw4kRsl_npkcwJPUMEAQqFAoSCakeM2DMJ8OJES1f6tHW7sgo",
+            "structured_formatting": {
+                "main_text": "4 Natures Trail",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Chester, NY, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "4 Natures Trail"
+                },
+                {
+                    "offset": 17,
+                    "value": "Chester"
+                },
+                {
+                    "offset": 26,
+                    "value": "NY"
+                },
+                {
+                    "offset": 30,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "street_address",
+                "geocode"
+            ]
+        },
+        {
+            "description": "4 Natures Trail, Clyde, NC, USA",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                }
+            ],
+            "place_id": "Eh80IE5hdHVyZXMgVHJhaWwsIENseWRlLCBOQywgVVNBIlASTgo0CjIJdzCs1OJ3WYgRj5V-XLDpdBkaHgsQ7sHuoQEaFAoSCfVM4kBYflmIEc7EuyWIEYN2DBAEKhQKEgl3MKzU4ndZiBH6zYIvUyiOeQ",
+            "reference": "Eh80IE5hdHVyZXMgVHJhaWwsIENseWRlLCBOQywgVVNBIlASTgo0CjIJdzCs1OJ3WYgRj5V-XLDpdBkaHgsQ7sHuoQEaFAoSCfVM4kBYflmIEc7EuyWIEYN2DBAEKhQKEgl3MKzU4ndZiBH6zYIvUyiOeQ",
+            "structured_formatting": {
+                "main_text": "4 Natures Trail",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Clyde, NC, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "4 Natures Trail"
+                },
+                {
+                    "offset": 17,
+                    "value": "Clyde"
+                },
+                {
+                    "offset": 24,
+                    "value": "NC"
+                },
+                {
+                    "offset": 28,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "street_address",
+                "geocode"
+            ]
+        },
+        {
+            "description": "4 Natures Trail Drive, Roanoke Rapids, NC, USA",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                }
+            ],
+            "place_id": "Ei40IE5hdHVyZXMgVHJhaWwgRHJpdmUsIFJvYW5va2UgUmFwaWRzLCBOQywgVVNBIlASTgo0CjIJfZmQGrEWrokRDwpDWhLHAOAaHgsQ7sHuoQEaFAoSCVWgYja6Ea6JEcfeCvoo-1mjDBAEKhQKEgnr2iUSsRauiRFHlzMm4Z2Rrw",
+            "reference": "Ei40IE5hdHVyZXMgVHJhaWwgRHJpdmUsIFJvYW5va2UgUmFwaWRzLCBOQywgVVNBIlASTgo0CjIJfZmQGrEWrokRDwpDWhLHAOAaHgsQ7sHuoQEaFAoSCVWgYja6Ea6JEcfeCvoo-1mjDBAEKhQKEgnr2iUSsRauiRFHlzMm4Z2Rrw",
+            "structured_formatting": {
+                "main_text": "4 Natures Trail Drive",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Roanoke Rapids, NC, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "4 Natures Trail Drive"
+                },
+                {
+                    "offset": 23,
+                    "value": "Roanoke Rapids"
+                },
+                {
+                    "offset": 39,
+                    "value": "NC"
+                },
+                {
+                    "offset": 43,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "street_address",
+                "geocode"
+            ]
+        },
+        {
+            "description": "4 Natures Trail Ln, Township of Taylorsville, NC, USA",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                }
+            ],
+            "place_id": "EjU0IE5hdHVyZXMgVHJhaWwgTG4sIFRvd25zaGlwIG9mIFRheWxvcnN2aWxsZSwgTkMsIFVTQSJQEk4KNAoyCbWj3FRHFlGIEbQzeqilQlKBGh4LEO7B7qEBGhQKEgml7iboOT5RiBGU_-jN1WVerAwQBCoUChIJ9x9KVDgWUYgRiXilrqguhh4",
+            "reference": "EjU0IE5hdHVyZXMgVHJhaWwgTG4sIFRvd25zaGlwIG9mIFRheWxvcnN2aWxsZSwgTkMsIFVTQSJQEk4KNAoyCbWj3FRHFlGIEbQzeqilQlKBGh4LEO7B7qEBGhQKEgml7iboOT5RiBGU_-jN1WVerAwQBCoUChIJ9x9KVDgWUYgRiXilrqguhh4",
+            "structured_formatting": {
+                "main_text": "4 Natures Trail Ln",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Township of Taylorsville, NC, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "4 Natures Trail Ln"
+                },
+                {
+                    "offset": 20,
+                    "value": "Township of Taylorsville"
+                },
+                {
+                    "offset": 46,
+                    "value": "NC"
+                },
+                {
+                    "offset": 50,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "street_address",
+                "geocode"
+            ]
+        },
+        {
+            "description": "4 Natures Trail Court, Rock Hill, SC, USA",
+            "matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 2
+                }
+            ],
+            "place_id": "Eik0IE5hdHVyZXMgVHJhaWwgQ291cnQsIFJvY2sgSGlsbCwgU0MsIFVTQSIuKiwKFAoSCXNDwDKRilaIEUfmTERzClu9EhQKEgll-8pFqoxWiBHwiQzlRYx6xw",
+            "reference": "Eik0IE5hdHVyZXMgVHJhaWwgQ291cnQsIFJvY2sgSGlsbCwgU0MsIFVTQSIuKiwKFAoSCXNDwDKRilaIEUfmTERzClu9EhQKEgll-8pFqoxWiBHwiQzlRYx6xw",
+            "structured_formatting": {
+                "main_text": "4 Natures Trail Court",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 13,
+                        "offset": 2
+                    }
+                ],
+                "secondary_text": "Rock Hill, SC, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "4"
+                },
+                {
+                    "offset": 2,
+                    "value": "Natures Trail Court"
+                },
+                {
+                    "offset": 23,
+                    "value": "Rock Hill"
+                },
+                {
+                    "offset": 34,
+                    "value": "SC"
+                },
+                {
+                    "offset": 38,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        }
+    ],
+    "status": "OK"
+}

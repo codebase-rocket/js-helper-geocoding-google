@@ -1,0 +1,105 @@
+{Ambience Island,
+            "address_components": [
+                {
+                    "long_name": "National Highway - 8",
+                    "short_name": "National Highway - 8",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ambience Island",
+                    "short_name": "Ambience Island",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_3"
+                    ]
+                },
+                {
+                    "long_name": "DLF Phase 3",
+                    "short_name": "DLF Phase 3",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_2"
+                    ]
+                },
+                {
+                    "long_name": "Sector 24",
+                    "short_name": "Sector 24",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Gurugram",
+                    "short_name": "Gurugram",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Gurgaon",
+                    "short_name": "Gurgaon",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Haryana",
+                    "short_name": "HR",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "India",
+                    "short_name": "IN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "122002",
+                    "short_name": "122002",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "National Highway - 8, Ambience Island, DLF Phase 3, Sector 24, Gurugram, Haryana 122002, India",
+            "geometry": {
+                "location": {
+                    "lat": 28.503641,
+                    "lng": 77.09734069999999
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.5049899802915,
+                        "lng": 77.0986896802915
+                    },
+                    "southwest": {
+                        "lat": 28.5022920197085,
+                        "lng": 77.09599171970848
+                    }
+                }
+            },
+            "place_id": "ChIJx4lnRTgZDTkRJjDnN6pXp0U",
+            "plus_code": {
+                "compound_code": "G33W+FW Gurugram, Haryana, India",
+                "global_code": "7JWVG33W+FW"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "shopping_mall"
+            ]
+        }

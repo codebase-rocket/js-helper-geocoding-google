@@ -1,0 +1,775 @@
+{
+  "plus_code": {
+      "compound_code": "5F5F+W7 Hamden, OH, USA",
+      "global_code": "86FV5F5F+W7"
+  },
+  "results": [
+      {
+          "address_components": [
+              {
+                  "long_name": "90",
+                  "short_name": "90",
+                  "types": [
+                      "street_number"
+                  ]
+              },
+              {
+                  "long_name": "North Main Street",
+                  "short_name": "N Main St",
+                  "types": [
+                      "route"
+                  ]
+              },
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              },
+              {
+                  "long_name": "8749",
+                  "short_name": "8749",
+                  "types": [
+                      "postal_code_suffix"
+                  ]
+              }
+          ],
+          "formatted_address": "90 N Main St, Hamden, OH 45634, USA",
+          "geometry": {
+              "location": {
+                  "lat": 39.1597977,
+                  "lng": -82.5267913
+              },
+              "location_type": "ROOFTOP",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.16114668029149,
+                      "lng": -82.52544231970849
+                  },
+                  "southwest": {
+                      "lat": 39.1584487197085,
+                      "lng": -82.5281402802915
+                  }
+              }
+          },
+          "place_id": "ChIJexXH2CjKR4gRfzxqAXBL4_o",
+          "plus_code": {
+              "compound_code": "5F5F+W7 Hamden, OH, USA",
+              "global_code": "86FV5F5F+W7"
+          },
+          "types": [
+              "street_address"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "30",
+                  "short_name": "30",
+                  "types": [
+                      "street_number"
+                  ]
+              },
+              {
+                  "long_name": "South Main Street",
+                  "short_name": "S Main St",
+                  "types": [
+                      "route"
+                  ]
+              },
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              }
+          ],
+          "formatted_address": "30 S Main St, Hamden, OH 45634, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.1593128,
+                      "lng": -82.5269562
+                  },
+                  "southwest": {
+                      "lat": 39.159175,
+                      "lng": -82.527114
+                  }
+              },
+              "location": {
+                  "lat": 39.1592412,
+                  "lng": -82.527018
+              },
+              "location_type": "ROOFTOP",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.1605928802915,
+                      "lng": -82.5256861197085
+                  },
+                  "southwest": {
+                      "lat": 39.1578949197085,
+                      "lng": -82.5283840802915
+                  }
+              }
+          },
+          "place_id": "ChIJrwWq1ijKR4gRebfNVMRD2nw",
+          "types": [
+              "premise"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "Chillicothe Street",
+                  "short_name": "Chillicothe St",
+                  "types": [
+                      "route"
+                  ]
+              },
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              }
+          ],
+          "formatted_address": "Chillicothe St, Hamden, OH 45634, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.1599205,
+                      "lng": -82.52600819999999
+                  },
+                  "southwest": {
+                      "lat": 39.1598317,
+                      "lng": -82.5271427
+                  }
+              },
+              "location": {
+                  "lat": 39.1598761,
+                  "lng": -82.5265754
+              },
+              "location_type": "GEOMETRIC_CENTER",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.16122508029149,
+                      "lng": -82.52522646970849
+                  },
+                  "southwest": {
+                      "lat": 39.1585271197085,
+                      "lng": -82.52792443029149
+                  }
+              }
+          },
+          "place_id": "ChIJaXnFICnKR4gRNtK9XkTgHAM",
+          "types": [
+              "route"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              }
+          ],
+          "formatted_address": "Hamden, OH 45634, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.165476,
+                      "lng": -82.51514109999999
+                  },
+                  "southwest": {
+                      "lat": 39.1506118,
+                      "lng": -82.53215000000002
+                  }
+              },
+              "location": {
+                  "lat": 39.1597938,
+                  "lng": -82.52682589999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.165476,
+                      "lng": -82.51514109999999
+                  },
+                  "southwest": {
+                      "lat": 39.1506118,
+                      "lng": -82.53215000000002
+                  }
+              }
+          },
+          "place_id": "ChIJly71PynKR4gRbUJ_-V66iVs",
+          "types": [
+              "locality",
+              "political"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              }
+          ],
+          "formatted_address": "Clinton Township, OH, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.2176319,
+                      "lng": -82.41774789999999
+                  },
+                  "southwest": {
+                      "lat": 39.13781600000001,
+                      "lng": -82.5402819
+                  }
+              },
+              "location": {
+                  "lat": 39.1828231,
+                  "lng": -82.49693309999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.2176319,
+                      "lng": -82.41774789999999
+                  },
+                  "southwest": {
+                      "lat": 39.13781600000001,
+                      "lng": -82.5402819
+                  }
+              }
+          },
+          "place_id": "ChIJg0pe2U3JR4gRyeIDRKc99x0",
+          "types": [
+              "administrative_area_level_3",
+              "political"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              },
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              }
+          ],
+          "formatted_address": "Hamden, OH 45634, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.2176319,
+                      "lng": -82.405422
+                  },
+                  "southwest": {
+                      "lat": 39.1351621,
+                      "lng": -82.572367
+                  }
+              },
+              "location": {
+                  "lat": 39.1828231,
+                  "lng": -82.49693309999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.2176319,
+                      "lng": -82.405422
+                  },
+                  "southwest": {
+                      "lat": 39.1351621,
+                      "lng": -82.572367
+                  }
+              }
+          },
+          "place_id": "ChIJMxK770DJR4gRlz3Pr28BRYY",
+          "types": [
+              "postal_code"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              }
+          ],
+          "formatted_address": "Vinton County, OH, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.395767,
+                      "lng": -82.260243
+                  },
+                  "southwest": {
+                      "lat": 39.027674,
+                      "lng": -82.7628919
+                  }
+              },
+              "location": {
+                  "lat": 39.2875595,
+                  "lng": -82.51858369999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.395767,
+                      "lng": -82.260243
+                  },
+                  "southwest": {
+                      "lat": 39.027674,
+                      "lng": -82.7628919
+                  }
+              }
+          },
+          "place_id": "ChIJkULPwv3GR4gRzUsE_eJj9Ec",
+          "types": [
+              "administrative_area_level_2",
+              "political"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              }
+          ],
+          "formatted_address": "Ohio, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 42.323374,
+                      "lng": -80.51819999999999
+                  },
+                  "southwest": {
+                      "lat": 38.4034229,
+                      "lng": -84.8203049
+                  }
+              },
+              "location": {
+                  "lat": 40.4172871,
+                  "lng": -82.90712300000001
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 42.323374,
+                      "lng": -80.51819999999999
+                  },
+                  "southwest": {
+                      "lat": 38.4034229,
+                      "lng": -84.8203049
+                  }
+              }
+          },
+          "place_id": "ChIJwY5NtXrpNogRFtmfnDlkzeU",
+          "types": [
+              "administrative_area_level_1",
+              "political"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              }
+          ],
+          "formatted_address": "United States",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 71.5388001,
+                      "lng": -66.885417
+                  },
+                  "southwest": {
+                      "lat": 18.7763,
+                      "lng": 170.5957
+                  }
+              },
+              "location": {
+                  "lat": 37.09024,
+                  "lng": -95.712891
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                  "northeast": {
+                      "lat": 71.5388001,
+                      "lng": -66.885417
+                  },
+                  "southwest": {
+                      "lat": 18.7763,
+                      "lng": 170.5957
+                  }
+              }
+          },
+          "place_id": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+          "types": [
+              "country",
+              "political"
+          ]
+      },
+      {
+          "address_components": [
+              {
+                  "long_name": "5F5F+W7",
+                  "short_name": "5F5F+W7",
+                  "types": [
+                      "plus_code"
+                  ]
+              },
+              {
+                  "long_name": "Hamden",
+                  "short_name": "Hamden",
+                  "types": [
+                      "locality",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Clinton Township",
+                  "short_name": "Clinton Township",
+                  "types": [
+                      "administrative_area_level_3",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Vinton County",
+                  "short_name": "Vinton County",
+                  "types": [
+                      "administrative_area_level_2",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "Ohio",
+                  "short_name": "OH",
+                  "types": [
+                      "administrative_area_level_1",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "United States",
+                  "short_name": "US",
+                  "types": [
+                      "country",
+                      "political"
+                  ]
+              },
+              {
+                  "long_name": "45634",
+                  "short_name": "45634",
+                  "types": [
+                      "postal_code"
+                  ]
+              }
+          ],
+          "formatted_address": "5F5F+W7 Hamden, OH, USA",
+          "geometry": {
+              "bounds": {
+                  "northeast": {
+                      "lat": 39.159875,
+                      "lng": -82.52674999999999
+                  },
+                  "southwest": {
+                      "lat": 39.15975,
+                      "lng": -82.52687499999999
+                  }
+              },
+              "location": {
+                  "lat": 39.1597938,
+                  "lng": -82.52682589999999
+              },
+              "location_type": "ROOFTOP",
+              "viewport": {
+                  "northeast": {
+                      "lat": 39.1611614802915,
+                      "lng": -82.52546351970848
+                  },
+                  "southwest": {
+                      "lat": 39.1584635197085,
+                      "lng": -82.52816148029149
+                  }
+              }
+          },
+          "place_id": "GhIJQY2MH3SUQ0AR48v6g7ehVMA",
+          "plus_code": {
+              "compound_code": "5F5F+W7 Hamden, OH, USA",
+              "global_code": "86FV5F5F+W7"
+          },
+          "types": [
+              "plus_code"
+          ]
+      }
+  ],
+  "status": "OK"
+}

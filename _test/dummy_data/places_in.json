@@ -1,0 +1,313 @@
+{
+    "predictions": [
+        {
+            "description": "Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 9,
+                    "offset": 56
+                }
+            ],
+            "place_id": "ChIJ74XAbuL8DDkR-wJQ-vQyHkQ",
+            "reference": "ChIJ74XAbuL8DDkR-wJQ-vQyHkQ",
+            "structured_formatting": {
+                "main_text": "Red Fort",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 46
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Red Fort"
+                },
+                {
+                    "offset": 10,
+                    "value": "Netaji Subhash Marg"
+                },
+                {
+                    "offset": 31,
+                    "value": "Lal Qila"
+                },
+                {
+                    "offset": 41,
+                    "value": "Chandni Chowk"
+                },
+                {
+                    "offset": 56,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 67,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 74,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Red fort - New Delhi, Block M, Lodi Colony, New Delhi, Delhi",
+            "matched_substrings": [
+                {
+                    "length": 20,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJtX89B_PiDDkR7lEMafeLK14",
+            "reference": "ChIJtX89B_PiDDkR7lEMafeLK14",
+            "structured_formatting": {
+                "main_text": "Red fort - New Delhi",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 20,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Block M, Lodi Colony, New Delhi, Delhi"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Red fort - New Delhi"
+                },
+                {
+                    "offset": 22,
+                    "value": "Block M"
+                },
+                {
+                    "offset": 31,
+                    "value": "Lodi Colony"
+                },
+                {
+                    "offset": 44,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 55,
+                    "value": "Delhi"
+                }
+            ],
+            "types": [
+                "bus_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 9,
+                    "offset": 56
+                }
+            ],
+            "place_id": "ChIJVQrk5xz9DDkRb04iDNMrrCo",
+            "reference": "ChIJVQrk5xz9DDkRb04iDNMrrCo",
+            "structured_formatting": {
+                "main_text": "Red Fort",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 46
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Red Fort"
+                },
+                {
+                    "offset": 10,
+                    "value": "Netaji Subhash Marg"
+                },
+                {
+                    "offset": 31,
+                    "value": "Lal Qila"
+                },
+                {
+                    "offset": 41,
+                    "value": "Chandni Chowk"
+                },
+                {
+                    "offset": 56,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 67,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 74,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Café Red Fort, 21Parda Bagh, Daryaganj, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 5
+                },
+                {
+                    "length": 9,
+                    "offset": 40
+                }
+            ],
+            "place_id": "ChIJR3XuN679DDkRl6JXBqu37wA",
+            "reference": "ChIJR3XuN679DDkRl6JXBqu37wA",
+            "structured_formatting": {
+                "main_text": "Café Red Fort",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 5
+                    }
+                ],
+                "secondary_text": "21Parda Bagh, Daryaganj, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 25
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Café Red Fort"
+                },
+                {
+                    "offset": 15,
+                    "value": "21Parda Bagh"
+                },
+                {
+                    "offset": 29,
+                    "value": "Daryaganj"
+                },
+                {
+                    "offset": 40,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 51,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 58,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Café red fort, Civil Colony, BK Dutt Colony, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 5
+                },
+                {
+                    "length": 9,
+                    "offset": 45
+                }
+            ],
+            "place_id": "ChIJnXz5wirjDDkRR94k02cr9mQ",
+            "reference": "ChIJnXz5wirjDDkRR94k02cr9mQ",
+            "structured_formatting": {
+                "main_text": "Café red fort",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 5
+                    }
+                ],
+                "secondary_text": "Civil Colony, BK Dutt Colony, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 30
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Café red fort"
+                },
+                {
+                    "offset": 15,
+                    "value": "Civil Colony"
+                },
+                {
+                    "offset": 29,
+                    "value": "BK Dutt Colony"
+                },
+                {
+                    "offset": 45,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 56,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 63,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}

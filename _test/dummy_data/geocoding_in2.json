@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Sector 17",
+                    "short_name": "Sector 17",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Chandigarh",
+                    "short_name": "Chandigarh",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Chandigarh",
+                    "short_name": "Chandigarh",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Chandigarh",
+                    "short_name": "CH",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "India",
+                    "short_name": "IN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Sector 17, Chandigarh, India",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 30.7469561,
+                        "lng": 76.7908501
+                    },
+                    "southwest": {
+                        "lat": 30.7335531,
+                        "lng": 76.774445
+                    }
+                },
+                "location": {
+                    "lat": 30.7410517,
+                    "lng": 76.779015
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.7469561,
+                        "lng": 76.7908501
+                    },
+                    "southwest": {
+                        "lat": 30.7335531,
+                        "lng": 76.774445
+                    }
+                }
+            },
+            "place_id": "ChIJ0wNQ_grtDzkRNEkE8umrR48",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_1"
+            ]
+        }
+    ],
+    "status": "OK"
+}

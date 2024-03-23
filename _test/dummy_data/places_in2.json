@@ -1,0 +1,293 @@
+{
+    "predictions": [
+        {
+            "description": "Connaught Place, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                },
+                {
+                    "length": 9,
+                    "offset": 17
+                }
+            ],
+            "place_id": "ChIJV9BBtzf9DDkR8cOTc-SI7s0",
+            "reference": "ChIJV9BBtzf9DDkR8cOTc-SI7s0",
+            "structured_formatting": {
+                "main_text": "Connaught Place",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Connaught Place"
+                },
+                {
+                    "offset": 17,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 28,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 35,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Connaught Place, Radial Road Number 4, Block H, Connaught Place, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 15,
+                    "offset": 0
+                },
+                {
+                    "length": 9,
+                    "offset": 65
+                }
+            ],
+            "place_id": "ChIJF6U_mxb9DDkRkJO5QMXT5Pk",
+            "reference": "ChIJF6U_mxb9DDkRkJO5QMXT5Pk",
+            "structured_formatting": {
+                "main_text": "Connaught Place",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Radial Road Number 4, Block H, Connaught Place, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 48
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Connaught Place"
+                },
+                {
+                    "offset": 17,
+                    "value": "Radial Road Number 4"
+                },
+                {
+                    "offset": 39,
+                    "value": "Block H"
+                },
+                {
+                    "offset": 48,
+                    "value": "Connaught Place"
+                },
+                {
+                    "offset": 65,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 76,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 83,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "NEW DELHI MUNICIPAL COUNCIL, Hanuman Road Area, Connaught Place, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 15,
+                    "offset": 48
+                }
+            ],
+            "place_id": "ChIJTVXeOkr9DDkRUMM-xGC3Q_Q",
+            "reference": "ChIJTVXeOkr9DDkRUMM-xGC3Q_Q",
+            "structured_formatting": {
+                "main_text": "NEW DELHI MUNICIPAL COUNCIL",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Hanuman Road Area, Connaught Place, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 19
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "NEW DELHI MUNICIPAL COUNCIL"
+                },
+                {
+                    "offset": 29,
+                    "value": "Hanuman Road Area"
+                },
+                {
+                    "offset": 48,
+                    "value": "Connaught Place"
+                },
+                {
+                    "offset": 65,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 76,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 83,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "New Delhi House, Barakhamba Road, Connaught Place, New Delhi, Delhi, India",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 15,
+                    "offset": 34
+                }
+            ],
+            "place_id": "ChIJaRaxqzb9DDkRsAZQ7yT2wqQ",
+            "reference": "ChIJaRaxqzb9DDkRsAZQ7yT2wqQ",
+            "structured_formatting": {
+                "main_text": "New Delhi House",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Barakhamba Road, Connaught Place, New Delhi, Delhi, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 15,
+                        "offset": 17
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "New Delhi House"
+                },
+                {
+                    "offset": 17,
+                    "value": "Barakhamba Road"
+                },
+                {
+                    "offset": 34,
+                    "value": "Connaught Place"
+                },
+                {
+                    "offset": 51,
+                    "value": "New Delhi"
+                },
+                {
+                    "offset": 62,
+                    "value": "Delhi"
+                },
+                {
+                    "offset": 69,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Connaught Place, New Delhi, Punhana, Haryana, India",
+            "matched_substrings": [
+                {
+                    "length": 26,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJ9wltM10nczkRZxw2jBxjT9I",
+            "reference": "ChIJ9wltM10nczkRZxw2jBxjT9I",
+            "structured_formatting": {
+                "main_text": "Connaught Place, New Delhi",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 26,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Punhana, Haryana, India"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Connaught Place, New Delhi"
+                },
+                {
+                    "offset": 28,
+                    "value": "Punhana"
+                },
+                {
+                    "offset": 37,
+                    "value": "Haryana"
+                },
+                {
+                    "offset": 46,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}

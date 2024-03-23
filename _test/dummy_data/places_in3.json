@@ -1,0 +1,281 @@
+{
+    "predictions": [
+        {
+            "description": "Chaparan, Bihar, India",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 10
+                }
+            ],
+            "place_id": "ChIJX9fouAdL8DkRGAC2w3Xr5ww",
+            "reference": "ChIJX9fouAdL8DkRGAC2w3Xr5ww",
+            "structured_formatting": {
+                "main_text": "Chaparan",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Bihar, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Chaparan"
+                },
+                {
+                    "offset": 10,
+                    "value": "Bihar"
+                },
+                {
+                    "offset": 17,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "locality",
+                "political",
+                "geocode"
+            ]
+        },
+        {
+            "description": "dhaka Block, East Champaran, Bihar, State Highway 54, Dhaka, Bihar, India",
+            "matched_substrings": [
+                {
+                    "length": 34,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJPSQLcAPH7DkRdBJXHs95LZE",
+            "reference": "ChIJPSQLcAPH7DkRdBJXHs95LZE",
+            "structured_formatting": {
+                "main_text": "dhaka Block, East Champaran, Bihar",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 34,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "State Highway 54, Dhaka, Bihar, India"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "dhaka Block, East Champaran, Bihar"
+                },
+                {
+                    "offset": 36,
+                    "value": "State Highway 54"
+                },
+                {
+                    "offset": 54,
+                    "value": "Dhaka"
+                },
+                {
+                    "offset": 61,
+                    "value": "Bihar"
+                },
+                {
+                    "offset": 68,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "local_government_office",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Champaran meat shop, Sant Colony, Mirchaibari, Katihar, Bihar, India",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 56
+                }
+            ],
+            "place_id": "ChIJPbNlT8Or-jkRWi2G07ljcp8",
+            "reference": "ChIJPbNlT8Or-jkRWi2G07ljcp8",
+            "structured_formatting": {
+                "main_text": "Champaran meat shop",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Sant Colony, Mirchaibari, Katihar, Bihar, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 35
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Champaran meat shop"
+                },
+                {
+                    "offset": 21,
+                    "value": "Sant Colony"
+                },
+                {
+                    "offset": 34,
+                    "value": "Mirchaibari"
+                },
+                {
+                    "offset": 47,
+                    "value": "Katihar"
+                },
+                {
+                    "offset": 56,
+                    "value": "Bihar"
+                },
+                {
+                    "offset": 63,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "description": "CHAMPARAN TELECOM, Hardiya, Bihar, India",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 28
+                }
+            ],
+            "place_id": "ChIJDyjlGlC_7DkR6e1Qyh96p9o",
+            "reference": "ChIJDyjlGlC_7DkR6e1Qyh96p9o",
+            "structured_formatting": {
+                "main_text": "CHAMPARAN TELECOM",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Hardiya, Bihar, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 9
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "CHAMPARAN TELECOM"
+                },
+                {
+                    "offset": 19,
+                    "value": "Hardiya"
+                },
+                {
+                    "offset": 28,
+                    "value": "Bihar"
+                },
+                {
+                    "offset": 35,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Champaran Masala, Belwa - Katkenwa Road, Chauradano, Bihar, India",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 53
+                }
+            ],
+            "place_id": "ChIJgzyY3Day7DkRu78AEjUd8c0",
+            "reference": "ChIJgzyY3Day7DkRu78AEjUd8c0",
+            "structured_formatting": {
+                "main_text": "Champaran Masala",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Belwa - Katkenwa Road, Chauradano, Bihar, India",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 35
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Champaran Masala"
+                },
+                {
+                    "offset": 18,
+                    "value": "Belwa - Katkenwa Road"
+                },
+                {
+                    "offset": 41,
+                    "value": "Chauradano"
+                },
+                {
+                    "offset": 53,
+                    "value": "Bihar"
+                },
+                {
+                    "offset": 60,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}
